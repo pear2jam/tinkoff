@@ -1,6 +1,6 @@
 import csv
 
-
+#пояснение работы алгоритма находится в папке tinkoff (stocksInfo.txt)
 # модель для ответа
 class StockModel:
     def __init__(self):
