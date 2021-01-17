@@ -136,4 +136,4 @@ cap = int(input("Введите стартовый капитал: "))
 print("Ожидайте:")
 answer.fit(data0, 2*n, 2, 20)
 answer.strategy(cap)
-
+ 
